@@ -1,7 +1,10 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning ...
--   Студент <a href="https://urban-university.pro">Urban University</a>
+<p>🌱 I’m currently studying at the <a href="https://urban-university.pro">Urban University</a></p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VyacheslavStoliarov&show_icons=true&theme=dracula&title_color=FFD700&text_color=C0C0C0&hide_border=true&custom_title=CHARACTER:%20~VyacheslavStoliarov~%20Sorcerer&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&card_width=500)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VyacheslavStoliarov&size_weight=0.5&count_weight=0.5&theme=dracula&card_width=500)
 <!--
 **VyacheslavStoliarov/VyacheslavStoliarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
