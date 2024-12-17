@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning ...
+-   Студент <a href="https://urban-university.pro">Urban University</a>
 <!--
 **VyacheslavStoliarov/VyacheslavStoliarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
